@@ -2,13 +2,6 @@ interface AppProps {
   message?: string;
 }
 
-const people = [{ 
-  name: 'Jack Cricket', 
-  title: 'Front-end Developer', 
-  email: 'jack@example.com', 
-  role: 'Unassigned' 
-}]
-
 function App({ message }: AppProps): JSX.Element {  
   return (
     <main className="mt-32 font-sans ml-3 mr-3">
