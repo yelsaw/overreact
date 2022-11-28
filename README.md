@@ -1,8 +1,8 @@
 ![image](https://github.com/yelsaw/overreact/actions/workflows/node.js.yml/badge.svg)
 
-# OverReact
+# Overreact
 
-### What is OverReact?
+### What is Overreact?
 This is an example app written with [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/) which uses [TailwindCSS](https://tailwindcss.com/) for styling and [Vite](https://vitejs.dev/) bundling.
 
 Refer to [overreact](https://github.com/yelsaw/overreact) for more information.
