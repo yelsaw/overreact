@@ -1,4 +1,4 @@
-[![Build OverReact](https://github.com/yelsaw/overreact/actions/workflows/node.js.yml/badge.svg)](https://github.com/yelsaw/overreact/actions/workflows/node.js.yml)
+
 
 # Overreact
 
