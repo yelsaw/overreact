@@ -1,5 +1,5 @@
 
-name: Build OverReact
+name: Build Overreact
 on:
   push:
     branches: [ "main" ]
